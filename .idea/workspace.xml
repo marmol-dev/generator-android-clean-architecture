@@ -2,789 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82595437-df9b-4bc5-b3cd-0f15587fb5c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/sync_templates.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/proguardTest-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/TestUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/custom/action/NavigationViewActions.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/data/TasksLocalDataSourceTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/tasks/AppNavigationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/BasePresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/BaseView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/Task.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksDbHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksLocalDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksPersistenceContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/remote/TasksRemoteDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsViewModel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/ScrollChildSwipeRefreshLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/SwipeRefreshLayoutDataBinding.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksFilterType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksItemActionHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksViewModel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/ActivityUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/EspressoIdlingResource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/SimpleCountingIdlingResource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/drawable-hdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/drawable-mdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/drawable-xhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/drawable-xxhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/drawable-xxxhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/drawable/ic_add.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/drawable/ic_assignment_turned_in_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/drawable/ic_check_circle_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/drawable/ic_done.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/drawable/ic_edit.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/drawable/ic_filter_list.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/drawable/ic_list.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/drawable/ic_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/drawable/ic_statistics.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/drawable/ic_statistics_100dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/drawable/ic_statistics_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/drawable/ic_verified_user_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/drawable/list_completed_touch_feedback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/drawable/touch_feedback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/layout/addtask_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/layout/addtask_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/layout/nav_header.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/layout/statistics_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/layout/statistics_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/layout/task_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/layout/taskdetail_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/layout/taskdetail_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/layout/tasks_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/layout/tasks_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/menu/drawer_actions.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/menu/filter_tasks.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/menu/taskdetail_fragment_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/menu/tasks_fragment_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/values-v21/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/values/colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/main/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/mock/java/com/example/android/architecture/blueprints/todoapp/Injection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/mock/java/com/example/android/architecture/blueprints/todoapp/data/FakeTasksRemoteDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/prod/java/com/example/android/architecture/blueprints/todoapp/Injection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/test/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/test/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepositoryTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/test/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/test/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/app/src/test/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/gradle.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/gradlew" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/gradlew.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-databinding/settings.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/proguardTest-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/TestUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/custom/action/NavigationViewActions.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/data/TasksLocalDataSourceTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/tasks/AppNavigationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/BasePresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/BaseView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/UseCase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/UseCaseHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/UseCaseScheduler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/UseCaseThreadPoolScheduler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/domain/usecase/DeleteTask.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/domain/usecase/GetTask.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/domain/usecase/SaveTask.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksDbHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksLocalDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksPersistenceContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/remote/TasksRemoteDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/domain/model/Statistics.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/domain/usecase/GetStatistics.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/ScrollChildSwipeRefreshLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksFilterType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/domain/filter/ActiveTaskFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/domain/filter/CompleteTaskFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/domain/filter/FilterAllTaskFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/domain/filter/FilterFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/domain/filter/TaskFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/domain/model/Task.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/domain/usecase/ActivateTask.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/domain/usecase/ClearCompleteTasks.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/domain/usecase/CompleteTask.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/domain/usecase/GetTasks.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/ActivityUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/EspressoIdlingResource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/SimpleCountingIdlingResource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/drawable-hdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/drawable-mdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/drawable-xhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/drawable-xxhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/drawable-xxxhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/drawable/ic_add.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/drawable/ic_assignment_turned_in_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/drawable/ic_check_circle_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/drawable/ic_done.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/drawable/ic_edit.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/drawable/ic_filter_list.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/drawable/ic_list.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/drawable/ic_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/drawable/ic_statistics.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/drawable/ic_statistics_100dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/drawable/ic_statistics_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/drawable/ic_verified_user_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/drawable/list_completed_touch_feedback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/drawable/touch_feedback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/layout/addtask_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/layout/addtask_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/layout/nav_header.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/layout/statistics_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/layout/statistics_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/layout/task_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/layout/taskdetail_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/layout/taskdetail_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/layout/tasks_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/layout/tasks_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/menu/drawer_actions.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/menu/filter_tasks.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/menu/taskdetail_fragment_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/menu/tasks_fragment_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/values-v21/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/values/colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/main/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/mock/java/com/example/android/architecture/blueprints/todoapp/Injection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/mock/java/com/example/android/architecture/blueprints/todoapp/data/FakeTasksRemoteDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/prod/java/com/example/android/architecture/blueprints/todoapp/Injection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/test/java/com/example/android/architecture/blueprints/todoapp/TestUseCaseScheduler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/test/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/test/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepositoryTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/test/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/test/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/app/src/test/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/gradle.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/gradlew" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/gradlew.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-clean/settings.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/proguardTest-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/TestUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/custom/action/NavigationViewActions.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/data/ProviderUtilities.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/data/TasksLocalDataSourceTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/tasks/AppNavigationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/BasePresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/BaseView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/Task.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/LoaderProvider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TaskValues.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksProvider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksDbHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksLocalDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksPersistenceContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/remote/TasksRemoteDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/ScrollChildSwipeRefreshLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TaskFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksFilterType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/ActivityUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/EspressoIdlingResource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/SimpleCountingIdlingResource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/drawable-hdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/drawable-mdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/drawable-xhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/drawable-xxhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/drawable-xxxhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/drawable/ic_add.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/drawable/ic_assignment_turned_in_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/drawable/ic_check_circle_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/drawable/ic_done.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/drawable/ic_edit.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/drawable/ic_filter_list.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/drawable/ic_list.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/drawable/ic_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/drawable/ic_statistics.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/drawable/ic_statistics_100dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/drawable/ic_statistics_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/drawable/ic_verified_user_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/drawable/list_completed_touch_feedback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/drawable/touch_feedback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/layout/addtask_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/layout/addtask_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/layout/nav_header.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/layout/statistics_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/layout/statistics_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/layout/task_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/layout/taskdetail_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/layout/taskdetail_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/layout/tasks_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/layout/tasks_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/menu/drawer_actions.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/menu/filter_tasks.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/menu/taskdetail_fragment_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/menu/tasks_fragment_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/values-v21/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/values/colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/main/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/mock/java/com/example/android/architecture/blueprints/todoapp/Injection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/mock/java/com/example/android/architecture/blueprints/todoapp/data/FakeTasksRemoteDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/prod/java/com/example/android/architecture/blueprints/todoapp/Injection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/test/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/test/java/com/example/android/architecture/blueprints/todoapp/data/source/MockCursorProvider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/test/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepositoryTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/test/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/test/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/app/src/test/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/gradle.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/gradlew" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/gradlew.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-contentproviders/settings.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/proguardTest-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/TestUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/custom/action/NavigationViewActions.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/data/TasksLocalDataSourceTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/tasks/AppNavigationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/ApplicationModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/BasePresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/BaseView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/ToDoApplication.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskComponent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskPresenterModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/Task.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/Local.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/Remote.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepositoryComponent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksDbHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksLocalDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksPersistenceContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/remote/TasksRemoteDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsComponent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsPresenterModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailComponent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailPresenterModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/ScrollChildSwipeRefreshLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksComponent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksFilterType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenterModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/ActivityUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/EspressoIdlingResource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/FragmentScoped.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/SimpleCountingIdlingResource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/drawable-hdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/drawable-mdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/drawable-xhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/drawable-xxhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/drawable-xxxhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/drawable/ic_add.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/drawable/ic_assignment_turned_in_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/drawable/ic_check_circle_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/drawable/ic_done.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/drawable/ic_edit.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/drawable/ic_filter_list.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/drawable/ic_list.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/drawable/ic_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/drawable/ic_statistics.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/drawable/ic_statistics_100dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/drawable/ic_statistics_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/drawable/ic_verified_user_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/drawable/list_completed_touch_feedback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/drawable/touch_feedback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/layout/addtask_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/layout/addtask_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/layout/nav_header.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/layout/statistics_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/layout/statistics_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/layout/task_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/layout/taskdetail_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/layout/taskdetail_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/layout/tasks_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/layout/tasks_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/menu/drawer_actions.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/menu/filter_tasks.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/menu/taskdetail_fragment_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/menu/tasks_fragment_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/values-v21/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/values/colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/main/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/mock/java/com/example/android/architecture/blueprints/todoapp/data/FakeTasksRemoteDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/mock/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepositoryModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/prod/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepositoryModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/test/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/test/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepositoryTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/test/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/test/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/app/src/test/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/gradle.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/gradlew" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/gradlew.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-dagger/settings.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/proguardTest-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/TestUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/custom/action/NavigationViewActions.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/data/TasksLocalDataSourceTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/tasks/AppNavigationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/BasePresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/BaseView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/Task.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TaskLoader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksLoader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksDbHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksLocalDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksPersistenceContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/remote/TasksRemoteDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/ScrollChildSwipeRefreshLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksFilterType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/ActivityUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/EspressoIdlingResource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/SimpleCountingIdlingResource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/drawable-hdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/drawable-mdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/drawable-xhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/drawable-xxhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/drawable-xxxhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/drawable/ic_add.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/drawable/ic_assignment_turned_in_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/drawable/ic_check_circle_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/drawable/ic_done.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/drawable/ic_edit.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/drawable/ic_filter_list.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/drawable/ic_list.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/drawable/ic_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/drawable/ic_statistics.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/drawable/ic_statistics_100dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/drawable/ic_statistics_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/drawable/ic_verified_user_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/drawable/list_completed_touch_feedback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/drawable/touch_feedback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/layout/addtask_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/layout/addtask_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/layout/nav_header.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/layout/statistics_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/layout/statistics_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/layout/task_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/layout/taskdetail_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/layout/taskdetail_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/layout/tasks_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/layout/tasks_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/menu/drawer_actions.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/menu/filter_tasks.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/menu/taskdetail_fragment_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/menu/tasks_fragment_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/values-v21/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/values/colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/main/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/mock/java/com/example/android/architecture/blueprints/todoapp/Injection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/mock/java/com/example/android/architecture/blueprints/todoapp/data/FakeTasksRemoteDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/prod/java/com/example/android/architecture/blueprints/todoapp/Injection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/test/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/test/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepositoryTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/test/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/test/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/app/src/test/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/gradle.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/gradlew" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/gradlew.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-loaders/settings.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/proguardTest-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/TestUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/custom/action/NavigationViewActions.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/data/TasksLocalDataSourceTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/tasks/AppNavigationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/BasePresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/BaseView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/Task.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksDbHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksLocalDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksPersistenceContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/remote/TasksRemoteDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/ScrollChildSwipeRefreshLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksFilterType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/ActivityUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/EspressoIdlingResource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/SimpleCountingIdlingResource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/schedulers/BaseSchedulerProvider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/schedulers/ImmediateSchedulerProvider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/schedulers/SchedulerProvider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/drawable-hdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/drawable-mdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/drawable-xhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/drawable-xxhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/drawable-xxxhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/drawable/ic_add.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/drawable/ic_assignment_turned_in_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/drawable/ic_check_circle_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/drawable/ic_done.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/drawable/ic_edit.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/drawable/ic_filter_list.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/drawable/ic_list.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/drawable/ic_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/drawable/ic_statistics.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/drawable/ic_statistics_100dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/drawable/ic_statistics_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/drawable/ic_verified_user_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/drawable/list_completed_touch_feedback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/drawable/touch_feedback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/layout/addtask_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/layout/addtask_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/layout/nav_header.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/layout/statistics_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/layout/statistics_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/layout/task_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/layout/taskdetail_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/layout/taskdetail_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/layout/tasks_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/layout/tasks_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/menu/drawer_actions.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/menu/filter_tasks.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/menu/taskdetail_fragment_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/menu/tasks_fragment_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/values-v21/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/values/colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/main/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/mock/java/com/example/android/architecture/blueprints/todoapp/Injection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/mock/java/com/example/android/architecture/blueprints/todoapp/data/FakeTasksRemoteDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/prod/java/com/example/android/architecture/blueprints/todoapp/Injection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/test/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/test/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepositoryTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/test/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/test/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/app/src/test/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/gradle.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/gradlew" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/gradlew.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp-rxjava/settings.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/proguardTest-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/TestUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/custom/action/NavigationViewActions.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/data/TasksLocalDataSourceTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/tasks/AppNavigationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/androidTestMock/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailScreenTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/BasePresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/BaseView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/Task.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksDbHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksLocalDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TasksPersistenceContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/remote/TasksRemoteDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/ScrollChildSwipeRefreshLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksContract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksFilterType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/ActivityUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/EspressoIdlingResource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/SimpleCountingIdlingResource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/drawable-hdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/drawable-mdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/drawable-xhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/drawable-xxhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/drawable-xxxhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/drawable/ic_add.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/drawable/ic_assignment_turned_in_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/drawable/ic_check_circle_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/drawable/ic_done.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/drawable/ic_edit.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/drawable/ic_filter_list.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/drawable/ic_list.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/drawable/ic_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/drawable/ic_statistics.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/drawable/ic_statistics_100dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/drawable/ic_statistics_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/drawable/ic_verified_user_24dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/drawable/list_completed_touch_feedback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/drawable/touch_feedback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/layout/addtask_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/layout/addtask_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/layout/nav_header.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/layout/statistics_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/layout/statistics_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/layout/task_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/layout/taskdetail_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/layout/taskdetail_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/layout/tasks_act.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/layout/tasks_frag.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/menu/drawer_actions.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/menu/filter_tasks.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/menu/taskdetail_fragment_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/menu/tasks_fragment_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/values-v21/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/values/colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/main/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/mock/java/com/example/android/architecture/blueprints/todoapp/Injection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/mock/java/com/example/android/architecture/blueprints/todoapp/data/FakeTasksRemoteDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/prod/java/com/example/android/architecture/blueprints/todoapp/Injection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/test/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/test/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepositoryTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/test/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/test/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/app/src/test/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/gradle.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/gradlew" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/gradlew.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generators/app/templates/todo-mvp/settings.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/app.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/generators/app/templates/android10-clean-architecture/data/.gitignore" afterPath="$PROJECT_DIR$/generators/app/templates/android10-clean-architecture/data/_.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/generators/app/templates/android10-clean-architecture/presentation/.gitignore" afterPath="$PROJECT_DIR$/generators/app/templates/android10-clean-architecture/presentation/_.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generators/app/index.js" afterPath="$PROJECT_DIR$/generators/app/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
@@ -801,33 +21,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/generators/app/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="26" column="44" lean-forward="false" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="20">
-                <caret line="1" column="36" lean-forward="false" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
+            <state relative-caret-position="20">
               <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
               <folding />
             </state>
@@ -864,8 +61,8 @@
         <option value="$PROJECT_DIR$/generators/app/templates/android10-clean-architecture/build.gradle" />
         <option value="$PROJECT_DIR$/generators/app/templates/android10-clean-architecture/data/src/main/java/com/fernandocejas/android10/sample/data/cache/UserCacheImpl.java" />
         <option value="$PROJECT_DIR$/generators/app/templates/android10-clean-architecture/presentation/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/generators/app/index.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/generators/app/index.js" />
         <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
@@ -950,6 +147,70 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android10-clean-architecture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generator-android-architecture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generator-android-architecture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generators" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android10-clean-architecture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="presentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generator-android-architecture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generator-android-architecture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generators" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android10-clean-architecture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1385,12 +646,12 @@
       <option name="presentableId" value="Default" />
       <updated>1484244032939</updated>
       <workItem from="1484244034215" duration="3569000" />
-      <workItem from="1484301292158" duration="3370000" />
+      <workItem from="1484301292158" duration="4069000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6939000" />
+    <option name="totallyTimeSpent" value="7638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="34" width="2560" height="987" extended-state="6" />
@@ -1407,11 +668,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21775478" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1423,7 +685,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1568,18 +829,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generators/app/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" column="44" lean-forward="false" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="20">
+          <first_editor relative-caret-position="-93">
             <caret line="1" column="36" lean-forward="false" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
             <folding />
           </first_editor>
@@ -1587,9 +840,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/generators/app/templates/android10-clean-architecture/data/_.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generators/app/templates/android10-clean-architecture/presentation/_.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generators/app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="123" column="59" lean-forward="false" selection-start-line="123" selection-start-column="59" selection-end-line="123" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
+        <state relative-caret-position="20">
           <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding />
         </state>
