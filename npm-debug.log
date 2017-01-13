@@ -1,0 +1,117 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/home/marmol/.nvm/versions/node/v6.9.2/bin/node',
+1 verbose cli   '/home/marmol/.nvm/versions/node/v6.9.2/bin/npm',
+1 verbose cli   'publish' ]
+2 info using npm@3.10.9
+3 info using node@v6.9.2
+4 verbose publish [ '.' ]
+5 silly cache add args [ '.', null ]
+6 verbose cache add spec .
+7 silly cache add parsed spec Result {
+7 silly cache add   raw: '.',
+7 silly cache add   scope: null,
+7 silly cache add   escapedName: null,
+7 silly cache add   name: null,
+7 silly cache add   rawSpec: '.',
+7 silly cache add   spec: '/mnt/pequenos/dev/generator-android-architecture',
+7 silly cache add   type: 'directory' }
+8 verbose addLocalDirectory /home/marmol/.npm/generator-android-clean-architecture/0.0.2/package.tgz not in flight; packing
+9 verbose correctMkdir /home/marmol/.npm correctMkdir not in flight; initializing
+10 info lifecycle generator-android-clean-architecture@0.0.2~prepublish: generator-android-clean-architecture@0.0.2
+11 silly lifecycle generator-android-clean-architecture@0.0.2~prepublish: no script for prepublish, continuing
+12 verbose tar pack [ '/home/marmol/.npm/generator-android-clean-architecture/0.0.2/package.tgz',
+12 verbose tar pack   '/mnt/pequenos/dev/generator-android-architecture' ]
+13 verbose tarball /home/marmol/.npm/generator-android-clean-architecture/0.0.2/package.tgz
+14 verbose folder /mnt/pequenos/dev/generator-android-architecture
+15 verbose addLocalTarball adding from inside cache /home/marmol/.npm/generator-android-clean-architecture/0.0.2/package.tgz
+16 verbose correctMkdir /home/marmol/.npm correctMkdir not in flight; initializing
+17 silly cache afterAdd generator-android-clean-architecture@0.0.2
+18 verbose afterAdd /home/marmol/.npm/generator-android-clean-architecture/0.0.2/package/package.json not in flight; writing
+19 verbose correctMkdir /home/marmol/.npm correctMkdir not in flight; initializing
+20 verbose afterAdd /home/marmol/.npm/generator-android-clean-architecture/0.0.2/package/package.json written
+21 silly publish { name: 'generator-android-clean-architecture',
+21 silly publish   version: '0.0.2',
+21 silly publish   description: 'Yeoman generator for the Android Clean Architecture.',
+21 silly publish   homepage: 'https://github.com/tomymolina/generator-android-clean-architecture',
+21 silly publish   author:
+21 silly publish    { name: 'Martín Molina Álvarez',
+21 silly publish      email: 'tm07081995@gmail.com',
+21 silly publish      url: 'https://about.me/tomymolina/' },
+21 silly publish   files: [ 'generators' ],
+21 silly publish   main: 'generators/index.js',
+21 silly publish   keywords: [ 'Android', 'Java', 'Architecture', 'Clean', 'yeoman-generator' ],
+21 silly publish   dependencies:
+21 silly publish    { chalk: '^1.1.3',
+21 silly publish      'yeoman-generator': '^1.0.0',
+21 silly publish      yosay: '^1.2.1' },
+21 silly publish   repository:
+21 silly publish    { type: 'git',
+21 silly publish      url: 'git+https://github.com/tomymolina/generator-android-clean-architecture.git' },
+21 silly publish   scripts: {},
+21 silly publish   license: 'Apache-2.0',
+21 silly publish   readme: '# generator-android-architecture\n[![NPM version][npm-image]][npm-url]\n   \n> Yeoman generator to create an android app using [android10-clean-architecture](https://github.com/android10/Android-CleanArchitecture).\n  \n## Installation\n\nInstall [Yeoman](http://yeoman.io) and generator-android-clean-architecture using [npm](https://www.npmjs.com/).\n\nFirst of all, [node.js](https://nodejs.org/) must be installed in your system. \nIf you have never installed *node.js* I recommend you to install it using [nvm](https://github.com/creationix/nvm) (Node Version Manager).\n\nOnce you have *node.js* installed you can install *yo* and the *generator*:\n\n```bash\nnpm install -g yo\nnpm install -g generator-android-clean-architecture\n```\n\nThen generate your new project:\n\n```bash\nmkdir MyAwesomeAndroidApp && cd MyAwesomeAndroidApp\nyo android-clean-architecture\n```\n\n\n## License\n\nCopyright 2017 Martín Molina Álvarez\n\nLicensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at\n\nhttp://www.apache.org/licenses/LICENSE-2.0\nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.\n\n\n[npm-image]: https://badge.fury.io/js/generator-android-clean-architecture.svg\n[npm-url]: https://npmjs.org/package/generator-android-clean-architecture\n',
+21 silly publish   readmeFilename: 'README.md',
+21 silly publish   gitHead: '211a070d7868723fecc8c8b058d5d38f1107b684',
+21 silly publish   bugs: { url: 'https://github.com/tomymolina/generator-android-clean-architecture/issues' },
+21 silly publish   _id: 'generator-android-clean-architecture@0.0.2',
+21 silly publish   _shasum: '6af52b13fe485bd259438b91f1d7d721d98fbfec',
+21 silly publish   _from: '.' }
+22 verbose getPublishConfig undefined
+23 silly mapToRegistry name generator-android-clean-architecture
+24 silly mapToRegistry using default registry
+25 silly mapToRegistry registry https://registry.npmjs.org/
+26 silly mapToRegistry data Result {
+26 silly mapToRegistry   raw: 'generator-android-clean-architecture',
+26 silly mapToRegistry   scope: null,
+26 silly mapToRegistry   escapedName: 'generator-android-clean-architecture',
+26 silly mapToRegistry   name: 'generator-android-clean-architecture',
+26 silly mapToRegistry   rawSpec: '',
+26 silly mapToRegistry   spec: 'latest',
+26 silly mapToRegistry   type: 'tag' }
+27 silly mapToRegistry uri https://registry.npmjs.org/generator-android-clean-architecture
+28 verbose publish registryBase https://registry.npmjs.org/
+29 silly publish uploading /home/marmol/.npm/generator-android-clean-architecture/0.0.2/package.tgz
+30 verbose request uri https://registry.npmjs.org/generator-android-clean-architecture
+31 verbose request sending authorization for write operation
+32 info attempt registry request try #1 at 12:05:03
+33 verbose request using bearer token for auth
+34 verbose request id ffe7b1cf101eaf20
+35 http request PUT https://registry.npmjs.org/generator-android-clean-architecture
+36 http 403 https://registry.npmjs.org/generator-android-clean-architecture
+37 verbose headers { 'content-type': 'application/json',
+37 verbose headers   'cache-control': 'max-age=300',
+37 verbose headers   'content-length': '95',
+37 verbose headers   'accept-ranges': 'bytes',
+37 verbose headers   date: 'Fri, 13 Jan 2017 11:05:06 GMT',
+37 verbose headers   via: '1.1 varnish',
+37 verbose headers   connection: 'keep-alive',
+37 verbose headers   'x-served-by': 'cache-lhr6322-LHR',
+37 verbose headers   'x-cache': 'MISS',
+37 verbose headers   'x-cache-hits': '0',
+37 verbose headers   'x-timer': 'S1484305504.385329,VS0,VE2469',
+37 verbose headers   vary: 'Accept-Encoding' }
+38 verbose request invalidating /home/marmol/.npm/registry.npmjs.org/generator-android-clean-architecture on PUT
+39 error publish Failed PUT 403
+40 verbose stack Error: "You cannot publish over the previously published version 0.0.2." : generator-android-clean-architecture
+40 verbose stack     at makeError (/home/marmol/.nvm/versions/node/v6.9.2/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:302:12)
+40 verbose stack     at CachingRegistryClient.<anonymous> (/home/marmol/.nvm/versions/node/v6.9.2/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:290:14)
+40 verbose stack     at Request._callback (/home/marmol/.nvm/versions/node/v6.9.2/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:210:14)
+40 verbose stack     at Request.self.callback (/home/marmol/.nvm/versions/node/v6.9.2/lib/node_modules/npm/node_modules/request/request.js:187:22)
+40 verbose stack     at emitTwo (events.js:106:13)
+40 verbose stack     at Request.emit (events.js:191:7)
+40 verbose stack     at Request.<anonymous> (/home/marmol/.nvm/versions/node/v6.9.2/lib/node_modules/npm/node_modules/request/request.js:1048:10)
+40 verbose stack     at emitOne (events.js:96:13)
+40 verbose stack     at Request.emit (events.js:188:7)
+40 verbose stack     at IncomingMessage.<anonymous> (/home/marmol/.nvm/versions/node/v6.9.2/lib/node_modules/npm/node_modules/request/request.js:969:12)
+41 verbose statusCode 403
+42 verbose pkgid generator-android-clean-architecture
+43 verbose cwd /mnt/pequenos/dev/generator-android-architecture
+44 error Linux 4.8.0-30-generic
+45 error argv "/home/marmol/.nvm/versions/node/v6.9.2/bin/node" "/home/marmol/.nvm/versions/node/v6.9.2/bin/npm" "publish"
+46 error node v6.9.2
+47 error npm  v3.10.9
+48 error code E403
+49 error "You cannot publish over the previously published version 0.0.2." : generator-android-clean-architecture
+50 error If you need help, you may report this error at:
+50 error     <https://github.com/npm/npm/issues>
+51 verbose exit [ 1, true ]

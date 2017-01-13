@@ -1,4 +1,4 @@
-# generator-android-architecture
+# generator-android-clean-architecture
 [![NPM version][npm-image]][npm-url]
    
 > Yeoman generator to create an android app using [android10-clean-architecture](https://github.com/android10/Android-CleanArchitecture).
