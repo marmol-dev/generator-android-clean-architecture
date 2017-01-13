@@ -1,0 +1,30 @@
+{
+  "name": "generator-android-clean-architecture",
+  "version": "0.0.1",
+  "description": "Yeoman generator for the Android Clean Architecture.",
+  "homepage": "https://github.com/tomymolina/generator-android-clean-architecture",
+  "author": {
+    "name": "Martín Molina Álvarez",
+    "email": "tm07081995@gmail.com",
+    "url": "https://about.me/tomymolina/"
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    "Android",
+    "Java",
+    "Architecture",
+    "Clean",
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "yeoman-generator": "^1.0.0",
+    "yosay": "^1.2.1"
+  },
+  "repository": "tomymolina/generator-android-clean-architecture",
+  "scripts": {},
+  "license": "Apache-2.0"
+}
